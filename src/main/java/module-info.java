@@ -5,4 +5,5 @@ module com.byexpert.javafxmvvm {
     opens com.byexpert.javafx.mvvmapp to javafx.fxml;
 
     exports com.byexpert.javafx.mvvmapp;
+    exports com.byexpert.javafx.modelchangeapp;
 }
